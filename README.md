@@ -6,7 +6,7 @@ $  mvn clean test -Dsurefire.suiteXmlFiles=Sanity.xml
 
 
 Important Files to look
-
+git 
 POM.XML
 <plugin>
           <artifactId>maven-surefire-plugin</artifactId>

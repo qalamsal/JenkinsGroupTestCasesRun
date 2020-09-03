@@ -8,4 +8,9 @@ public class Regression {
     public void r1(){
         System.out.println("Regression1");
     }
+
+    @Test(groups = {"Regression"})
+    public void r2(){
+        System.out.println("Regression2");
+    }
 }

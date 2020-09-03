@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fb6fdf6-5f1c-4b31-a8bb-1ec1a2536f1f" name="Default Changelist" comment="" />
+    <list default="true" id="3fb6fdf6-5f1c-4b31-a8bb-1ec1a2536f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Regression/Regression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Regression/Regression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Sanity/Sanity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Sanity/Sanity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegressionSuite/RegressionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RegressionSuite/RegressionTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegressionSuite/RegressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RegressionSuite/RegressionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Sanity.Sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Sanity.Sanity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/RegressionSuite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gxtrwihl9WRG17EgXPfeYtmxf8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -68,7 +91,8 @@
       <updated>1599068273992</updated>
       <workItem from="1599068275809" duration="343000" />
       <workItem from="1599068653434" duration="3565000" />
-      <workItem from="1599086904999" duration="2956000" />
+      <workItem from="1599086904999" duration="4248000" />
+      <workItem from="1599160168135" duration="256000" />
     </task>
     <servers />
   </component>
@@ -76,29 +100,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1599125320313">
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1599150150555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561216" />
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599150150555" />
     <state width="1877" height="314" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152150" />
     <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599125320313" />
-    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1599125320313">
+    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1599150150555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561215" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599150150555" />
     <state width="1877" height="314" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152149" />
     <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599125320313" />
-    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1599125320312">
+    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1599150150555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561213" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599150150555" />
     <state width="1877" height="314" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152149" />
     <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599125320312" />
-    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1599125320313">
+    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1599150150555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561215" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599150150555" />
     <state width="1877" height="314" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152150" />
     <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599125320313" />
+    <state x="65" y="69" key="new project wizard" timestamp="1599149902856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="69" key="new project wizard/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599149902856" />
   </component>
 </project>
