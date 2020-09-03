@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb6fdf6-5f1c-4b31-a8bb-1ec1a2536f1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gxtrwihl9WRG17EgXPfeYtmxf8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iot\IdeaProjects\JenkinsGroupTestCases" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/iot/IdeaProjects/JenkinsGroupTestCases/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsGroupTestCases" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/iot/IdeaProjects/JenkinsGroupTestCases/Regression.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb6fdf6-5f1c-4b31-a8bb-1ec1a2536f1f" name="Default Changelist" comment="" />
+      <created>1599068273992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599068273992</updated>
+      <workItem from="1599068275809" duration="343000" />
+      <workItem from="1599068653434" duration="3565000" />
+      <workItem from="1599086904999" duration="2956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1599125320313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561216" />
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152150" />
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599125320313" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1599125320313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561215" />
+    <state width="1877" height="314" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152149" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599125320313" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1599125320312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561213" />
+    <state width="1877" height="314" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152149" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599125320312" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1599125320313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599079561215" />
+    <state width="1877" height="314" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1599087152150" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599125320313" />
+  </component>
+</project>
